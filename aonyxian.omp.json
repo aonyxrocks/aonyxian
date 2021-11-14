@@ -74,7 +74,7 @@
           "foreground": "#000000",
           "properties": {
             "always_enabled": true,
-            "prefix": "\ufa1e",
+            "prefix": " \ufa1e",
             "postfix": "\u2800"
           }
         },
